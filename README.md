@@ -1,36 +1,33 @@
-# Travel Cost Calculator
+# Travel Cost Calculator System
 
 ## Overview
-This project is a travel cost calculation tool designed to estimate expenses based on user inputs such as distance, lodging, and other cost factors.
+A system designed to estimate travel expenses based on user inputs such as distance, lodging, and cost parameters.
 
-## Purpose
-The goal of this project is to simulate real-world business expense calculations and demonstrate how cost estimation logic can be implemented programmatically.
+## Problem / Motivation
+Manual travel expense calculation is time-consuming and error-prone, especially when applying business rules such as mileage rates and lodging costs.
+
+## Solution
+This project implements a structured cost calculation engine that automates expense estimation based on configurable rules.
 
 ## Features
 - Distance-based cost calculation
 - Lodging and meal estimation
-- Customizable cost rules
-- Input-based expense estimation
-- Structured calculation logic
+- Input-driven expense calculation
+- Modular business logic design
 
 ## Tech Stack
-- Java / JavaScript (depending on your implementation)
+- Java / JavaScript
 - Business logic implementation
 
-## What I Learned
-- Designing cost calculation systems
-- Implementing business rules in code
-- Structuring modular calculation logic
-- Handling user input and validation
+## Example / Output
+(Add screenshots or sample calculation results)
 
-## Use Case
-This system can be used for:
-- Business travel expense estimation
-- Budget planning tools
-- Internal company tools for cost calculation
+## What I Learned
+- Designing calculation systems
+- Implementing business rules in code
+- Structuring modular logic
 
 ## Future Improvements
-- Add UI for better interaction
-- Integrate API (e.g., map distance)
+- Add UI interface
+- Integrate external APIs (e.g., maps)
 - Store historical records
-- Convert into a web-based application
