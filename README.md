@@ -43,5 +43,5 @@ It enables consistent, transparent, and scalable cost calculations across busine
 ---
 
 ## Author
-JC EXPRESS – AI, Data, Software & Automation Solutions
+J & C EXPRESS – AI, Data, Software & Automation Solutions
 
