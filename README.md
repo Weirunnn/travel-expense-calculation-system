@@ -1,24 +1,33 @@
 # Travel Cost Optimization System
 
 ## Overview
-A business-oriented cost estimation system designed to support travel planning, expense calculation, and internal reporting workflows.
+A business-oriented travel cost optimization system designed to support expense estimation, travel planning, and internal reporting workflows.
+
+This system helps organizations standardize cost calculations and improve decision-making efficiency for travel-related operations.
+
+---
 
 ## Features
-- Travel distance and expense calculation
-- Cost estimation logic for planning and approval workflows
-- Modular calculation structure for business rules
-- User-friendly interface for internal usage
+- Travel distance-based cost calculation
+- Customizable expense estimation logic
+- Support for business rule-based calculations
+- User-friendly interface for input and results
+- Structured output for reporting and analysis
+
+---
 
 ## Tech Stack
 - JavaScript
 - React
-- HTML/CSS
+- HTML / CSS
+
+---
 
 ## Business Use Case
-This system can be used by teams or internal operations staff to estimate and manage travel-related expenses more efficiently and consistently.
+This system can be used by:
+- Internal operations teams for travel budgeting
+- Finance teams for expense estimation and validation
+- Managers for planning and approval workflows
 
-## Future Improvements
-- Multi-user support
-- Export to PDF or Excel
-- Approval workflow integration
-- Dashboard reporting
+It enables consistent, transparent, and scalable cost calculations across business scenarios.
+
